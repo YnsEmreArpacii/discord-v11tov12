@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>CodAre v11 To v12</title>
+<title>Loz 'Bey v11 To v12</title>
 <style>
 body {
     background-color: #000000;
@@ -135,7 +135,7 @@ Developer <font color="red"> Loz 'Bey</font>
 function loz() {
   var str = document.getElementById("lozbey").innerHTML.split("channels.get").join("channels.cache.get").split("members.get").join("members.cache.get").split("createRole").join("roles.create").split("createChannel").join("channels.create").split("roles.get").join("roles.cache.get").split("users.get").join("users.cache.get").split("guilds.get").join("guilds.cache.get").split("addRole").join("roles.add").split("removeRole").join("roles.remove").split("users.exists").join("users.cache.some").split("channels.exists").join("channels.cache.some").split("roles.find").join("roles.cache.find").split("channels.find").join("channels.cache.find").split("users.find").join("users.cache.find").split("RichEmbed").join("MessageEmbed").split("fetchUser").join("users.fetch").split("fetchMember").join("users.members").split("fetchMessage").join("users.messages").split("fetchPinnedMessages").join("messages.fetchPinned").split("sendMessage").join("send").split("sendEmbed").join("send").split("sendCode").join("send").split("sendFile").join("send").split("sendFiles").join("send").split("setRoles").join("roles.set").split("colorRole").join("roles.color").split("highestRole").join("roles.highest").split("hoistRole").join("roles.hoist").split("avatarURL").join("avatarURL()").split("displayAvatarURL").join("displayAvatarURL()").split("iconURL").join("iconURL()").split("splashURL").join("splashURL()").split("playFile").join("play").split("playStream").join("play").split("playArbitraryInput").join("play").split("playBroadcast").join("play").split("playOpusStream").join("play").split("playConvertedStream").join("play").split("dispatcher.end()").join("dispatcher.destroy()").split("createVoiceBroadcast").join("voice.createBroadcast").split("broadcast.dispatchers").join("broadcast.subscribers").split("forEach").join("cache.forEach").split("client.ping").join("client.ws.ping").split("const avatarURL()").join("const avatarURL").split("let avatarURL()").join("let avatarURL").split("var avatarURL()").join("var avatarURL").split("var displayAvatarURL()").join("var displayAvatarURL").split("const displayAvatarURL()").join("const displayAvatarURL").split("let displayAvatarURL()").join("let displayAvatarURL").split("var iconURL()").join("var iconURL").split("const iconURL()").join("const iconURL").split("let iconURL()").join("let iconURL").split("var splashURL()").join("var splashURL").split("const splashURL()").join("const splashURL").split("let splashURL()").join("let splashURL");
   var res = str.replaceAll();
-  document.getElementById("lozbey").innerHTML = '// CodAre Tarafından Çevrilmiştir. <br>' + res;
+  document.getElementById("lozbey").innerHTML = '// LozBey Tarafından Çevrilmiştir. <br>' + res;
 }
 function aktar(e){
    document.getElementById('lozbey').innerHTML = e.onFilterTextInput
