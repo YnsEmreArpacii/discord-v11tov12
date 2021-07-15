@@ -111,7 +111,7 @@ giaunselectable, blockquote, pre, code {
 Developer <font color="red"> Loz 'Bey</font>
 </div>
 <center><br><br>
-<img src="https://i.resmim.net/5caFl.gif">
+<img src="https://i.pinimg.com/originals/59/78/aa/5978aaab169f88d8a711a10cde2084d0.gif">
 </center>
 </head>
 
